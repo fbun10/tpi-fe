@@ -18,8 +18,14 @@ height: 45px;
 
 /* Imagen Principal */
 #hawaii {
-    height: 60vh;
+    height: 80vh;
     filter: brightness(40%);
+}
+
+@media (max-width: 992px) {
+    #hawaii{
+    height: 60vh;
+    }
 }
 
 #principal {
