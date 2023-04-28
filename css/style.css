@@ -1,0 +1,64 @@
+/* Barra de navegación */
+.navbar {
+    background-color: rgb(53,58, 64)
+}
+
+#logoCaC {
+width: 75px;
+height: 45px;
+}
+.navbar-collapse #Tickets {
+    color: rgb(90, 180, 90)
+}
+
+#confBsAs {
+    color: white;
+}
+
+
+/* Imagen Principal */
+#hawaii {
+    height: 60vh;
+    filter: brightness(40%);
+}
+
+#principal {
+    margin-top: 12%;
+}
+
+@media (max-width: 576px) {
+    #parrafoPrincipal {
+        font-size:smaller;
+        }
+    }
+
+
+.btn-warning, .btn-info, .btn-secondary, .btn-danger {
+   font-weight: bold;
+}
+
+@media (max-width: 992px) {
+    #playa {
+        height: 100%;
+        width: 100%;
+            }
+}
+
+#lugarFecha{
+    background-color: rgb(53,58, 64);
+}
+
+#ignite{
+    border-bottom: dotted;
+}
+
+.btn-primary {
+    font-size: 24px;
+    font-weight:normal;
+    border: rgb(150,201,62);
+    background-color: rgb(150,201,62);
+}
+
+.bd-footer {
+    background-color: rgb(29,57,71);
+}
