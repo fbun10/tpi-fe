@@ -68,3 +68,23 @@ height: 45px;
 .bd-footer {
     background-color: rgb(29,57,71);
 }
+
+/*---------Tickets.html-------------------*/
+
+/*Cards de categoría -descuento*/
+.descuentos {
+    font-weight: bold;
+     text-align: center;
+}
+
+/*Cards de categoría -documentos*/
+.documentos {
+    font-weight: lighter;
+    font-style: italic; 
+    text-align: center;
+}
+
+/*color de fondo de la caja de texto Total a pagar*/
+#totalApagar {
+    background-color:rgb(204, 229, 255);
+}
